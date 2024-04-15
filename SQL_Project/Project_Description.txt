@@ -1,0 +1,30 @@
+Project Name: Garments fectory Management
+Trainee ID: 1277575
+Name: S M LUTFAR RAHMAN
+BatchID: CS/DITC-A/55/01
+
+Project Description: 
+Garments fectory Management System Project in SQL:
+Garments fectory Management System Project in SQL Server. The SQL Server (Garments fectory Management System Project) is a one of 
+the most usable application software, which is used to maintain the record. It is very helpful application software 
+for everyone they maintain the record manually. In this time everyone using Application Software for record keeping 
+& security purpose. Manually record keeping doesn’t secure and they are don’t find any record easily etc. 
+
+Garments fectory Management System Database Design
+The most important component of the system is the database design. It can be easily realized, if we consider 
+the amount and the scale of the Garments fectory. To have a strong and flexible system, the design must be well 
+studied. After some studies including investigation, workflow scenarios, traces and design, we obtain the 
+following tables. Typically, an Garments fectory system has Ten basic elements: 
+•	Product
+•	Purchases
+•	Order
+•	Category
+•	Stock
+•	Customers
+•	Order Details
+•	Employee
+•	Sales and
+•	Supplier.
+Each element must be tracked based on its own elements. Current Garments fectory, or products on hand, is updated 
+by tracking incoming shipments and outgoing orders. Order alerts can be set to trigger when inventory levels 
+fall below custom-defined minimum levels.
